@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price,Total
+1001,Soap,FMCG,10,25,250
+1002,Shampoo,FMCG,5,120,600
+1003,Toothpaste,FMCG,12,40,480
+1004,Detergent,FMCG,8,150,1200
+1005,Face Cream,Cosmetics,6,200,1200
